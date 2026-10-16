@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "4WiQ7dYqg/c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vmurati\\source\\repos\\BookTourr\\BookTourr\\BookTourr.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vmurati\\.nuget\\packages\\system.collections.immutable\\10.0.13\\system.collections.immutable.10.0.13.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference System.Collections.Immutable will not be pruned. This package is automatically available and does not need to be referenced explicitly. Remove the PackageReference item.",
+      "projectPath": "C:\\Users\\vmurati\\source\\repos\\BookTourr\\BookTourr\\BookTourr.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\vmurati\\source\\repos\\BookTourr\\BookTourr\\BookTourr.csproj",
+      "libraryId": "System.Collections.Immutable",
+      "targetGraphs": [
+        "net10.0-windows7.0"
+      ]
+    }
+  ]
+}
